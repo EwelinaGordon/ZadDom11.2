@@ -1,0 +1,5 @@
+Wrocław;Niewielkie zachmurzenie;15
+Warszawa;Zachmurzenie zmienne;11
+Rzeszów;Pogodnie;14
+Gdańsk;Pogodnie;15
+Katowice;Zachmurzenie z rozpogodzeniami;13
